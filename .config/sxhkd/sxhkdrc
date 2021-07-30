@@ -1,0 +1,2 @@
+super + space
+	dmenu_run -l 25 -h 22 &
